@@ -82,7 +82,7 @@ a{
 
   } 
 
-  .final{
+  .info_final{
     display: flex;
     padding: 20px;
 
@@ -227,9 +227,10 @@ a{
     }
 
 
-    .final{
-      display: inline-flex;
-      padding: auto;
+    .info_final{
+      
+     flex-direction: column;
+      
 
       .formulario{
         height: auto;
