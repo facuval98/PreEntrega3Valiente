@@ -1,0 +1,530 @@
+body {
+    font-family: sans-serif;
+    margin: 0%;
+    background: #9796f0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fbc7d4, #9796f0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.menu-responsive{
+    display: none;
+  }
+
+  header {
+    display: flex;
+    height: 30vh;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+ }
+
+ header{ 
+    .img-header{
+      img{
+       border-radius: 50%;}
+      }
+      .logo{
+        display: flex;
+        align-items: left;
+          img{
+          height: 20vh;
+          margin-right: 20vh;
+        }
+  
+    }
+  
+    .h1-header{
+      .Amortentia{
+        height: 10vh;
+        width: 10vw;
+        padding-top: 10px;
+        color:rgb(247, 89, 194);
+        justify-content: center;
+        text-align: center;
+        font-family:'Source+Code+Pro';
+          
+      }
+  }
+  
+  .nav{
+    li {
+      
+      list-style: none;
+      padding: 10px;
+      padding-bottom: 25px;
+      float: left;
+      text-align: center;
+      justify-content: center;
+    }
+    a {
+      font-size: large;
+      font-weight: 200px;
+      padding-right: 10px;
+      float: right;
+      color:rgb(247, 89, 194);
+      font-family: fantasy;
+      
+    }
+  
+  }
+  
+  }
+  
+  a{
+      text-decoration: none;
+  }
+  
+    nav a:hover {
+      color: rgb(76, 0, 99);
+    }
+
+    .h2{
+        h2{
+            text-align: center;
+            justify-content: center;
+            font-size: 50px;
+        }
+
+        p{
+            margin-top: 30px;
+            justify-content: center;
+            text-align: center;
+        }
+    }
+
+    .Me{
+        text-align: center;
+        
+
+        img{
+            
+            justify-content: center;
+            text-align: center;
+            margin-top: 30px;
+            border-radius: 7%;
+           
+        }
+    }
+
+.p{
+  margin-top: 100px;
+  text-align: center;
+  justify-content: center;
+  p{
+    font-size: 40px;
+  }
+}
+
+    
+    .foto{
+      height: 500px;
+      width: 500px;
+    }
+   
+   
+    
+    .instagram{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+    
+
+      }
+
+
+
+  
+  ._1{
+    margin-top: 15px;
+      display: flex;
+     justify-content: center;
+      align-items: center;
+
+      .foto{
+        width: 320px;
+        height: 440px;}
+
+        .foto2{
+          width: 320px;
+          height: 440px;}
+          .foto3{
+            width: 320px;
+            height: 440px;}
+
+     
+  }
+  ._2{
+    margin-top: 15px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .foto4{
+        width: 320px;
+        height: 440px;}
+
+        .foto5{
+          width: 320px;
+          height: 440px;}
+          .foto6{
+            width: 320px;
+            height: 440px;}
+     
+  }
+  ._3{
+    margin-top: 15px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .foto7{
+        width: 320px;
+        height: 440px;}
+
+        .foto8{
+          width: 320px;
+          height: 440px;}
+          .foto9{
+            width: 320px;
+            height: 440px;}
+      
+  }
+  ._4{
+    margin-top: 15px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .foto10{
+        width: 320px;
+        height: 440px;}
+
+        .foto11{
+          width: 320px;
+          height: 440px;}
+          .foto12{
+            width: 320px;
+            height: 440px;}
+      
+  }
+  ._5{
+    margin-top: 15px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .foto13{
+        width: 320px;
+        height: 440px;}
+
+        .foto14{
+          width: 320px;
+          height: 440px;}
+
+          .foto15{
+            width: 320px;
+            height: 440px;}
+      
+  }
+ 
+
+
+
+
+
+
+
+
+
+
+
+   
+  
+    /*INICIO FOOTER*/
+   
+    .pie{
+      margin-top: 300px;
+    
+      .header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+        .logoo{
+          position: absolute;
+       
+          img{
+            border-radius: 60%;
+          }
+         }
+      }
+    
+      .section{
+        padding-top: 300px;
+         display: flex;
+         justify-content: space-evenly;
+         gap: 40px;
+         align-items: center;
+    
+    
+         div{
+          display: flex;
+          flex-direction: column;
+    
+          h2{
+            color: black;
+          }
+        
+        }
+    
+        a{
+          color: rgb(247, 89, 194);
+          padding: 5px;
+          font-family: fantasy;
+        }
+       }
+    
+       .derechos{
+        display: flex;
+        
+        justify-content: space-between;
+        padding: 10px;
+        background-color: rgb(218, 217, 217);
+      }
+     
+     }
+    
+    
+     
+     
+     .red{
+      padding-left: 1000px;
+      
+     }
+     
+    
+     .red img{
+      width: 80%;
+      height: 80px;
+     }
+    
+
+
+     @media only screen and (max-width:991px) {
+
+
+
+
+      body{
+        width: 100vw;
+      }
+
+      .menu-responsive{
+        display: block;
+      }
+    
+      .img-header{
+        display: none;
+      }
+      .h1-header{
+        display: none;
+      }
+      .nav{
+        display: none;
+      }
+      
+
+
+
+      .Me{
+          img{
+            width: 50vw;
+            height: 60vh;
+          }
+           
+        }
+
+        .instagram{
+         img{
+          width: 40vh;
+          height: 40vh;
+         }
+    
+        
+    
+          }
+
+          ._4{
+            display: none;
+          }
+          ._5{
+            display: none;
+          }
+
+
+          ._1{
+              .foto{
+                width: 200px;
+                height: 320px;}
+        
+                .foto2{
+                  width: 200px;
+                  height: 320px;}
+                  .foto3{
+                    width: 200px;
+                    height: 320px;}
+        
+             
+          }
+          ._2{
+              .foto4{
+                width: 200px;
+                height: 320px;}
+        
+                .foto5{
+                  width: 200px;
+                  height: 320px;}
+                  .foto6{
+                    width: 200px;
+                    height: 320px;}
+             
+          }
+          ._3{
+              .foto7{
+                width: 200px;
+                height: 320px;}
+        
+                .foto8{
+                  width: 200px;
+                  height: 320px;}
+                  .foto9{
+                    width: 200px;
+                    height: 320px;}
+              
+          }
+
+    }
+
+
+
+    @media screen and (max-width:554px){
+
+      body{
+        width: 100vw;
+      }
+    
+      .me{
+        justify-content: center;
+        align-items: center;
+
+        img{
+          width: 50vw;
+          height: 50vh;
+        }
+      }
+    
+    
+      ._1{
+        display: none;
+      }
+      ._2{
+        display: none;
+      }
+      ._3{
+        display: none;
+      }
+      ._4{
+        display: none;
+      }
+      ._5{
+        display: none;
+      }
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+    
+    /*INICIO FOOTER*/
+    footer{
+    
+    
+    .header{
+      .logoo{
+        img{
+          width: 20vh;
+          height: 20vh;
+        }
+      }
+      .red{
+        img{
+          display: none;
+        }
+      }
+    
+    }
+    
+    .section{
+      h2{display: none;}
+      a{display: none;}
+    }
+    
+    .derechos{
+    p{
+      display: none;
+    }
+    }
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
